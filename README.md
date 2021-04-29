@@ -18,3 +18,4 @@ Since identifying credit risks is naturally an unbalanced classification problem
 - Easy Ensemble AdaBoost Classifier: The balanced accuracy score is 93.1% while the high risk precision is 9% and recall is 92%.
 
 ## Summary
+The analysis of the machine learning models used is seen by inspecting the precision and recalls of each model. During the testing with all 6 models, there must be a good balance of precision and recall however the two are always in contention. Improving precision will reduce the recall and vice versa. during the credit risk analysis it is showing that the Easy Ensemble AdaBoost Classifier has the best balance of both including a high accuracy score of 93% as well. 
