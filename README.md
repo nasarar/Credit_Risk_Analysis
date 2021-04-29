@@ -10,6 +10,11 @@ Since identifying credit risks is naturally an unbalanced classification problem
 -Software: Jupyter Notebook 6.2.0
 
 ## Results
-
+- Naive Random Oversampling: 
+- SMOTE:
+- Undersampling:
+- Combination:
+- Balanced Random Forest Classifier:
+- Easy Ensemble AdaBoost Classifier:
 
 ## Summary
