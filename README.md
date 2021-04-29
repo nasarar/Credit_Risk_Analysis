@@ -10,11 +10,11 @@ Since identifying credit risks is naturally an unbalanced classification problem
 -Software: Jupyter Notebook 6.2.0
 
 ## Results
-- Naive Random Oversampling: 
-- SMOTE:
-- Undersampling:
-- Combination:
-- Balanced Random Forest Classifier:
-- Easy Ensemble AdaBoost Classifier:
+- Naive Random Oversampling: The balanced accuracy score is 65% while the high risk precision is 1% and recall is 69%.  
+- SMOTE: The balanced accuracy score is 65% while the high risk precision is 1% and recall is 69%.
+- Undersampling: The balanced accuracy score is 65% while the high risk precision is 1% and recall is 69%.
+- Combination: The balanced accuracy score is 64% while the high risk precision is 1% and recall is 78%.
+- Balanced Random Forest Classifier: The balanced accuracy score is 75.9% while the high risk precision is 3% and recall is 63%.
+- Easy Ensemble AdaBoost Classifier: The balanced accuracy score is 93.1% while the high risk precision is 9% and recall is 92%.
 
 ## Summary
